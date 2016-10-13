@@ -1,0 +1,28 @@
+﻿  Quelle.c
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(226): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(228): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(230): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(232): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(238): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(245): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(251): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(259): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(265): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(272): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(278): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(286): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(292): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(301): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(305): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(313): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(319): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(326): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(332): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(339): warning C4020: 'mengeboot': too many actual parameters
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(556): warning C4029: declared formal parameter list different from definition
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(939): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(98): warning C4715: 'bewegung_schuss': not all control paths return a value
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(344): warning C4715: 'schiffe_positionieren': not all control paths return a value
+c:\users\florian\desktop\projects\c\schiffeversenken\schiffeversenken\quelle.c(486): warning C4715: 'schiffsposi': not all control paths return a value
+  Schiffeversenken.vcxproj -> C:\Users\Florian\Desktop\Projects\C\Schiffeversenken\Debug\Schiffeversenken.exe
+  Schiffeversenken.vcxproj -> C:\Users\Florian\Desktop\Projects\C\Schiffeversenken\Debug\Schiffeversenken.pdb (Full PDB)
